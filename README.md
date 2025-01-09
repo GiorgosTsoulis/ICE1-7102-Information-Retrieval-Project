@@ -1,6 +1,6 @@
 # Information Retrieval Project
 
-This project is part of a University's project and implements a search engine based on wikipedia articles using the [Raw Wikipedia dataset](https://www.kaggle.com/datasets/ismaeldwikat/wikipedia)and evaluates various information retrieval (IR) algorithms using the [CISI dataset](https://www.kaggle.com/datasets/dmaso01dsta/cisi-a-dataset-for-information-retrieval).
+This project is part of a University's project and implements a search engine based on wikipedia articles using the [Raw Wikipedia dataset](https://www.kaggle.com/datasets/ismaeldwikat/wikipedia) and evaluates various information retrieval (IR) algorithms using the [CISI dataset](https://www.kaggle.com/datasets/dmaso01dsta/cisi-a-dataset-for-information-retrieval).
 
 ## Features
 
